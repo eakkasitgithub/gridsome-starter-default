@@ -21,7 +21,7 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Hello, world!'
+    title: 'Hello, world!ไทยๆๆๆ'
   }
 }
 </script>
